@@ -1,0 +1,9 @@
+trained_models/
+trained_models/
+*.safetensors
+datasets/
+uploads/
+.venv/
+__pycache__/
+*.pt
+*.pth
